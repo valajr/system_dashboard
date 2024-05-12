@@ -15,4 +15,7 @@ pip install python-tk
 pip install psutil
 ~~~
 
-Após a instação da(s) bibliotecas basta apenas rodar o aquivo "view.py".
+Após a instação da(s) bibliotecas basta apenas rodar o aquivo "main.py".
+
+## Problemas conhecidos
+Caso não execute o arquivo "main.py" como Administrador não será possível visualizar detalhes de alguns processos.
